@@ -1,5 +1,5 @@
 {
   "version": "1.0.6",
   "notes": "Firmware version 1.0.6",
-  "download": "https://github.com/jopms/fuel-gauge-releases/releases/latest/download/firmware.bin"
+  "download": "https://raw.githubusercontent.com/jopms/fuel-gauge-releases/main/firmware.bin"
 }
